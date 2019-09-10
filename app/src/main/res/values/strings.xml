@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin_Practice</string>
+    <string name="string_one">String One</string>
+    <string name="string_two">String Two</string>
+    <string name="string_three">String Three</string>
+    <string name="hint">Type Something For</string>
+
+</resources>
